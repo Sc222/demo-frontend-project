@@ -10,12 +10,7 @@ function ReactComponent() {
         <p>
           Edit <code> page code </code> and save to reload.
         </p>
-        <a
-          className="app-link"
-          href="https://altecsystems.ru/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a className="app-link" href="https://altecsystems.ru/" target="_blank" rel="noopener noreferrer">
           Altec Systems
         </a>
       </header>
