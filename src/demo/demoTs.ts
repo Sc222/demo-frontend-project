@@ -1,5 +1,11 @@
 export interface ITest {}
 
+export enum TestEnum {
+    Red,
+    white,
+    Black,
+}
+
 // Test short comment
 export class Test implements ITest {
     public static StaticVariable: number = 1;
